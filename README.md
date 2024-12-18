@@ -1,4 +1,4 @@
-#Student Management API
+<h1>#Student Management API</h1>
 
 This project is a simple Student Management API built using Spring Boot. It handles student and subject enrollment, student details management, and user authentication. The system supports functionalities such as user registration, login, student creation, updating details, deleting students, and enrolling students in subjects.
 Features
