@@ -85,6 +85,8 @@ Database Configuration
 This project uses an in-memory H2 database by default. If you want to use a different database, update the application.properties file with the appropriate database configurations.
 Error Handling
 
+Exception Handling
+
     MissingInputFieldException: Thrown when a required field is missing.
     StudentNotFoundException: Thrown when a student is not found.
     StudentAlreadyExistsException: Thrown when a student already exists.
