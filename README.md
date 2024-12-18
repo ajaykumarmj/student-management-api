@@ -1,4 +1,4 @@
-Student Management API
+#Student Management API
 
 This project is a simple Student Management API built using Spring Boot. It handles student and subject enrollment, student details management, and user authentication. The system supports functionalities such as user registration, login, student creation, updating details, deleting students, and enrolling students in subjects.
 Features
@@ -29,23 +29,23 @@ Before running the application, make sure you have the following installed:
 Setup & Installation
 Clone the repository
 
-git clone https://github.com/yourusername/student-management-api.git
+`git clone https://github.com/yourusername/student-management-api.git`
 
 Navigate to the project directory
 
-cd student-management-api
+`cd student-management-api`
 
 Build the project
 
 Use Maven to build the project:
 
-mvn clean install
+`mvn clean install`
 
 Run the application
 
 To run the Spring Boot application:
 
-mvn spring-boot:run
+`mvn spring-boot:run`
 
 The application will be available at http://localhost:8080.
 Endpoints
